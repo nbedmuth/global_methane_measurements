@@ -1,7 +1,0 @@
-Summary:
-Methane is the second most important greenhouse gas after CO2. Recent years have seen a huge increase in methane concentrations from anthropogenic sources which is an issue of concern.
-
-Through this project we aim to estimate the global methane concentrations by using machine learning solutions and existing methane products from satellite imagery. 
-
- 
-
